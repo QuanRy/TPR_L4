@@ -1,2 +1,42 @@
-# TPR_L4
-This is a repository for 4 lab in the TPR discipline.
+# Лабораторная 4 по дисциплине "Технологии программирования"
+
+---
+
+Цели работы:
+
+1. Познакомиться c библиотеками Python NumPy, Pandas и Matplotlib.
+2. Разобраться с принципами работы в среде Jupyter Notebook на основе сервиса Google Colab.
+3. Получить навыки выполнения векторных вычислений с использованием библиотеки NumPy.
+4. Получить навыки анализа, обработки и визуализации датасетов с применением библиотек Pandas и Matplotlib.
+
+---
+
+### Работа с NumPy
+
+В качестве работы с NumPy и  Python в среде Jupyter Notebook был выполнен математический просет следующих формул. 
+
+<div id="header" align="center">
+  <img src="img/1_task_two_examples.png" width="600"/>
+  <p> Рисунок 1 – Два прмиера для решения </p> 
+</div>
+
+Со следующими критериями и дополнительной информацией.
+
+<div id="header" align="center">
+  <img src="img/2_additing_to_task.png" width="400"/>
+  <p> Рисунок 2 – Пояснение к примерам </p> 
+</div>
+
+В результате вы можете перейти в файл [lab4_TPR_NumPy_Tasks](https://github.com/QuanRy/TPR_L4/blob/main/lab4_TPR_NumPy_Tasks.ipynb) и просмотреть результат, а также сам ход вычислений. Или же просмотреть рисунок 3.
+
+<div id="header" align="center">
+  <img src="img/result_numpy_task.png" width="200"/>
+  <p> Рисунок 3 – Результат работы с NumPy </p> 
+</div>
+
+
+---
+
+### Работа с визуализацией и анализом датасета.
+
+Для изучения визуализации будем испоьзовать базовый и достаточно уже приевшийся всем датасет 
