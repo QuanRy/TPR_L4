@@ -70,7 +70,7 @@
 
 На основании проведенного исследования, можно заключить следующий вывод
 <div id="header" align="center">
-  <img src="img/graph_4_result.png" width="600"/>
+  <img src="img/graph_4_result.png" width="300"/>
   <p> Рисунок 9 – Результат анализа выживаемости по полу </p> 
 </div>
 
